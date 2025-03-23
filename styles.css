@@ -4,6 +4,12 @@ body {
   h1 {
     color: rgb(255, 255, 255);
   }
+  h2 {
+    color: aliceblue;
+  }
   p {
     color: red;
+  }
+  blockquote {
+    color: #ffffff;
   }
